@@ -1,0 +1,4 @@
+venv/
+label_encoder_gender.pkl
+onehot_encoder_gender.pkl
+scaler.pkl
