@@ -1,4 +1,6 @@
 venv/
 label_encoder_gender.pkl
 onehot_encoder_gender.pkl
+Churn_Modelling.csv
 scaler.pkl
+onehot_encoder_geo.pkl
