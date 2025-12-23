@@ -1,6 +1,5 @@
 venv/
-label_encoder_gender.pkl
-onehot_encoder_gender.pkl
+logs/
 Churn_Modelling.csv
-scaler.pkl
-onehot_encoder_geo.pkl
+.ipynb_checkpoints
+
